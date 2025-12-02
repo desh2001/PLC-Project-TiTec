@@ -241,7 +241,7 @@ const Home = () => {
 
             {/* Explore Places Se ction */}
             <section c l assName="places- section">
-                <div className="places-header">
+                {/* <div className="places-header">
                     <div className="places-badge">
                         <svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <circle cx="4" cy="4" r="4" fill="white" />
@@ -251,7 +251,7 @@ const Home = () => {
                     <h2 className="places-title">
                         <span className="light-weight">Explore</span> <span className="medium-weight">Our Places</span>
                     </h2>
-                </div>
+                </div> */}
 
                 <img src="https://api.builder.io/api/v1/image/assets/TEMP/37a13b0ed2c2590a01ac0e20251008fb1721e85c?width=2824" className="map-image" alt="map" />
 
@@ -328,7 +328,7 @@ const Home = () => {
 
             {/* Portfolio Se ction */}
             <section c l assName="portfolio- section">
-                <div className="portfolio-header">
+                {/* <div className="portfolio-header">
                     <div className="portfolio-badge">
                         <svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <circle cx="4" cy="4" r="4" fill="black" />
@@ -338,9 +338,9 @@ const Home = () => {
                     <h2 className="portfolio-title">
                         <span className="light-weight">Explore</span> <span className="medium-weight">Our Works</span>
                     </h2>
-                </div>
+                </div> */}
 
-                <div className="portfolio-card">
+                {/* <div className="portfolio-card">
                     <div className="portfolio-image"></div>
                     <div className="portfolio-content">
                         <h3>Swat Agency</h3>
@@ -356,7 +356,7 @@ const Home = () => {
                             </svg>
                         </button>
                     </div>
-                </div>
+                </div> */}
             </section >
         </div >
     );
